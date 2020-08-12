@@ -1,4 +1,5 @@
 ### Hi there 👋
+###💬 I am mechanical engineering student
 
 <!--
 **rajsharma55/rajsharma55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
