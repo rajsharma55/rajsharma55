@@ -4,6 +4,7 @@
 ### 📫 Contact me on Telegram - [Raj Sharma](https://t.me/rajsharma55)
 ### 📫 Visit my XDA profile- [Raj Sharma](https://forum.xda-developers.com/member.php?u=8547859)
 
+[![Raj sharma's github stats](https://github-readme-stats.vercel.app/api?username=rajsharma55&count_private=true&show_icons=true&theme=radical)](https://github.com/rajsharma55/github-readme-stats)
 <!--
 **rajsharma55/rajsharma55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
