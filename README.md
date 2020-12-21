@@ -1,5 +1,5 @@
 ### Hi there 👋 I am RAJ SHARMA
-### 💬 I am mechanical engineering student
+### 💬 Mechanical Engineering (NIT Jalandhar)
 ### 🏠 I am living in Rajasthan, INDIA
 ### 📫 Contact me on Telegram - [Raj Sharma](https://t.me/rajsharma55)
 ### 📫 Visit my XDA profile- [Raj Sharma](https://forum.xda-developers.com/member.php?u=8547859)
